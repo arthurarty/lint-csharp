@@ -19,3 +19,10 @@ Code style analyzers
 dotnet format style
 ```
 Specify workspace
+```
+dotnet format hello_world.csproj
+```
+Increase output verbosity
+```
+dotnet format hello_world.csproj --verbosity d
+```
