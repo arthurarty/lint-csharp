@@ -1,0 +1,14 @@
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/bin/Debug/net8.0/hello_world
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/bin/Debug/net8.0/hello_world.deps.json
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/bin/Debug/net8.0/hello_world.runtimeconfig.json
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/bin/Debug/net8.0/hello_world.dll
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/bin/Debug/net8.0/hello_world.pdb
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/obj/Debug/net8.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/obj/Debug/net8.0/hello_world.AssemblyInfoInputs.cache
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/obj/Debug/net8.0/hello_world.AssemblyInfo.cs
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/obj/Debug/net8.0/hello_world.csproj.CoreCompileInputs.cache
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/obj/Debug/net8.0/hello_world.dll
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/obj/Debug/net8.0/refint/hello_world.dll
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/obj/Debug/net8.0/hello_world.pdb
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/obj/Debug/net8.0/hello_world.genruntimeconfig.cache
+/Users/arthurnangai/Docs/programming/c_sharp/hello_world/obj/Debug/net8.0/ref/hello_world.dll
